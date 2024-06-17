@@ -16,19 +16,19 @@ We tested our implementation on 4 mujoco environment :
 
 | HalfCheetah-v4 video | HalfCheetah-v4 training curve |
 | --- | --- |
-| ![HalfCheetah-v4](assets\HalfCheetah.gif) | ![HalfCheetah-v4](assets\HalfCheetah.png) |
+| ![HalfCheetah-v4](assets/HalfCheetah.gif) | ![HalfCheetah-v4](assets/HalfCheetah.png) |
 
 | Hopper-v4 video | Hopper-v4 training curve |
 | --- | --- |
-| ![Hopper-v4](assets\Hopper.gif) | ![Hopper-v4](assets\Hopper.png) |
+| ![Hopper-v4](assets/Hopper.gif) | ![Hopper-v4](assets/Hopper.png) |
 
 | InvertedDoublePendulum-v4 video | InvertedDoublePendulum-v4 training curve |
 | --- | --- |
-| ![InvertedDoublePendulum-v4](assets\InvertedDoublePendulum.gif) | ![InvertedDoublePendulum-v4](assets\InvertedDoublePendulum.png) |
+| ![InvertedDoublePendulum-v4](assets/InvertedDoublePendulum.gif) | ![InvertedDoublePendulum-v4](assets/InvertedDoublePendulum.png) |
 
 | Walker2d-v4 video | Walker2d-v4 training curve |
 | --- | --- |
-| ![Walker2d-v4](assets\Walker2d.gif) | ![Walker2d-v4](assets\Walker2d.png) |
+| ![Walker2d-v4](assets/Walker2d.gif) | ![Walker2d-v4](assets/Walker2d.png) |
 
 # Dependencies
 This repo require following :
